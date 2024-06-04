@@ -9,7 +9,7 @@ from utils.tools import *
 
 # 包名
 package_name = 'com.tencent.qqmusic'
-# 要保存的路径(最好用绝对路径)
+# 要保存的路径(最好用绝对路径), 举例：/Users/bytedance/Documents/测试包/腾讯系/QQ音乐/
 target_path = '/Users/bytedance/Documents/测试包/腾讯系/QQ音乐/'
 
 
