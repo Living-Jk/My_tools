@@ -8,7 +8,7 @@
 from utils.tools import *
 import os
 
-apk_path = '/Users/bytedance/Documents/测试包/腾讯系/QQ音乐/13.5.5.8/base.apk'  # 包路径
+apk_path = '/Users/bytedance/Documents/测试包/快手（极速）/快手/12.4.40.36654/base.apk'  # 包路径
 
 lspatch_path = '/Users/bytedance/Documents/测试包/重打包依赖/lspatch_240110.jar'
 xpose5_path = '/Users/bytedance/Documents/测试包/重打包依赖/xpose-with-ret.apk'
