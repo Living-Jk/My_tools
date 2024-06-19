@@ -8,9 +8,9 @@
 from utils.tools import *
 
 # 包名
-package_name = 'com.smile.gifmaker'
+package_name = 'com.xingin.xhs'
 # 要保存的路径(最好用绝对路径), 举例：/Users/bytedance/Documents/测试包/腾讯系/QQ音乐/
-target_path = '/Users/bytedance/Documents/测试包/快手（极速）/快手/'
+target_path = '/Users/bytedance/Documents/测试包/小红书/'
 
 
 @adb_connect
